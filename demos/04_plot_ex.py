@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 13 00:15:42 2016
-
-@author: Dan
-"""
-
 import numpy as np
 from vispy import plot as vp
 

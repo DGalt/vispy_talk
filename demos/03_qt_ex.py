@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 13 09:52:33 2016
-
-@author: Dan
-"""
-
 import sys
 from PyQt4 import QtGui
 from vispy import scene
